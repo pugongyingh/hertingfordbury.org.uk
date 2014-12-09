@@ -1,0 +1,77 @@
+---
+layout: gh-pages
+permalink: /parish-council/special-responsibilities/
+---
+
+<h2>Special Responsibilities</h2>
+
+<div class="panelLeft">
+	<table border="0" cellpadding="0" cellspacing="5">
+		<tr>
+			<td valign="top"><strong>Employment:</strong></td>
+			<td valign="top">Catherine Edwards<br />
+				Gary O'Leary<br />
+			Paul Rochford</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Footpaths:</strong></td>
+			<td valign="top">Paul Rochford</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Highways and Byways:</strong></td>
+			<td valign="top">Tommy Brennan</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Greens and Open Spaces:</strong></td>
+			<td valign="top">
+				All: Paul Rochford<br />
+				Cole Green: Barry Simkins<br />
+				Birch Green: Haidy Blake<br />
+				East End Green: Shobha Edgell<br />
+				Staines Green: Roger Morris<br />
+				Letty Green: Paul Rochford
+			</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Transport:</strong></td>
+			<td valign="top">Roger Morris</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Birch Green Play Area:</strong></td>
+			<td valign="top">Basil Jones</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Planning:</strong></td>
+			<td valign="top">All councillors</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Major Projects:</strong></td>
+			<td valign="top">Catherine Edwards<br />
+			Paul Rochford</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Parish Council Website Pages:</strong></td>
+			<td valign="top">The Clerk</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Walter Wallinger Trust:</strong></td>
+			<td valign="top"><p>Shobha Edgell</p></td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Waterhall Quarry:</strong></td>
+			<td valign="top">Paul Rochford</td>
+		</tr>
+		<tr>
+			<td valign="top"><strong>Panshanger Quarry:</strong></td>
+			<td valign="top">Gary O'Leary<br />
+			Roger Morris</td>
+		</tr>
+		<tr>
+			<td colspan="2" valign="top">Contact the Council via the <a href="/parish-council/contact">Parish Clerk</a></td>
+		</tr>
+	</table>
+</div>
+
+<div class="panelRight">
+	<img src="../../common/image/pond.jpg" alt="Pond" width="300" height="225" />
+</div>
