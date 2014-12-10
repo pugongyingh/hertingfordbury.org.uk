@@ -19,7 +19,7 @@ permalink: /parish-council/what-we-do/
 
 
 
-<a id="eastHertsPlanningLink" href="" target="_blank">test link 4</a>
+<a id="eastHertsPlanningLink" href="" target="_blank">test link 5</a>
 
 
 			
@@ -57,8 +57,8 @@ permalink: /parish-council/what-we-do/
 	};
 
 var date = new Date();
-var rdh = date.addDays(-120);
-
+var planningDate = date.addDays(-120);
+var planningDateDisplay = planningDate.getMonth() + '/' + planningDate.getDate() + '/' + planningDate.getFullYear();
 alert(rdh);
 alert(rdh.getDate());
 alert(rdh.getMonth());
@@ -66,6 +66,6 @@ alert(rdh.getFullYear());
 
 
 	$(function(){
-		$('a#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&REGFROMDATE.MAINBODY.WPACIS.1.=11/8/2014&SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
+		$('a#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&REGFROMDATE.MAINBODY.WPACIS.1.=' + planningDateDisplay + '&SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
 	});
 </script>
