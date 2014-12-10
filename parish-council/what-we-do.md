@@ -19,7 +19,7 @@ permalink: /parish-council/what-we-do/
 
 
 
-<a id="eastHertsPlanningLink" href="" target="_blank">test link</a>
+<a id="eastHertsPlanningLink" href="" target="_blank">test link 1</a>
 
 
 			
@@ -48,6 +48,6 @@ permalink: /parish-council/what-we-do/
 
 <script>
 	$(function(){
-		$('a#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&amp;REGFROMDATE.MAINBODY.WPACIS.1.=11/8/2014&amp;SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
+		$('a#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&REGFROMDATE.MAINBODY.WPACIS.1.=11/8/2014&SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
 	});
 </script>
