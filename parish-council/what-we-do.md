@@ -19,7 +19,7 @@ permalink: /parish-council/what-we-do/
 
 
 
-<a id="eastHertsPlanningLink" href="" target="_blank">test link 3</a>
+<a id="eastHertsPlanningLink" href="" target="_blank">test link 4</a>
 
 
 			
@@ -57,13 +57,12 @@ permalink: /parish-council/what-we-do/
 	};
 
 var date = new Date();
-var rdh = date.addDays(-30);
+var rdh = date.addDays(-120);
 
 alert(rdh);
 alert(rdh.getDate());
 alert(rdh.getMonth());
 alert(rdh.getFullYear());
-alert(rdh.format("mm-dd-yyyy"));
 
 
 	$(function(){
