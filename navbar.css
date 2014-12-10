@@ -1,10 +1,10 @@
-/* ================================================================ 
+/* ================================================================
 This copyright notice must be untouched at all times.
 
 The original version of this stylesheet and the associated (x)html
 is available at http://www.cssplay.co.uk/menus/padding.html
 Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
-This stylesheet and the assocaited (x)html may be modified in any 
+This stylesheet and the assocaited (x)html may be modified in any
 way to fit your requirements.
 =================================================================== */
 
@@ -21,8 +21,8 @@ way to fit your requirements.
 .menu ul {
 	padding:0;
 	margin:0;
-	list-style-type:none; 
-	height:25px; 
+	list-style-type:none;
+	height:25px;
 	background:transparent;
 }
 
@@ -87,12 +87,12 @@ way to fit your requirements.
 
 /* style the table so that it takes no part in the layout - required for IE to work */
 .menu table {
-	border-collapse:collapse; 
-	padding:0; 
-	margin:-1px; 
-	width:0; 
-	height:0; 
-	font-size:1em; 
+	border-collapse:collapse;
+	padding:0;
+	margin:-1px;
+	width:0;
+	height:0;
+	font-size:1em;
 	z-index:1;
 }
 
@@ -129,7 +129,6 @@ way to fit your requirements.
 .menu li:hover {position:relative;}
 .menu :hover > a {
 	color:#fff;
-	background-image: url(image/menuBackground.gif);
 }
 
 /* second */
