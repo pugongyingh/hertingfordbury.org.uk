@@ -56,6 +56,7 @@ permalink: /parish-council/what-we-do/
 		return this;
 	};
 
+var date = new Date();
 var rdh = date.addDays(-30);
 
 alert(rdh);
