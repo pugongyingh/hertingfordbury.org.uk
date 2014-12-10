@@ -46,9 +46,8 @@ permalink: /parish-council/what-we-do/
 	<img src="/common/image/warMemorial.jpg" alt="Birch Green War Memorial" width="300" />
 </div>
 
-
-
 <script>
-	$('#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&amp;REGFROMDATE.MAINBODY.WPACIS.1.=11/8/2014&amp;SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
+	$(function(){
+		$('a#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&amp;REGFROMDATE.MAINBODY.WPACIS.1.=11/8/2014&amp;SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
+	});
 </script>
-
