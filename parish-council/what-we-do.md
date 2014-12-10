@@ -58,7 +58,7 @@ permalink: /parish-council/what-we-do/
 
 var date = new Date();
 var planningDate = date.addDays(-120);
-var planningDateDisplay = planningDate.getMonth() + '/' + planningDate.getDate() + '/' + planningDate.getFullYear();
+var planningDateDisplay = planningDate.getDate() + '/' + planningDate.getMonth() + '/' + planningDate.getFullYear();
 
 	$(function(){
 		$('a#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&REGFROMDATE.MAINBODY.WPACIS.1.=' + planningDateDisplay + '&SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
