@@ -2,7 +2,7 @@
 layout: gh-pages
 permalink: /parish-council/minutes/
 products:
-- top-level: Product One
+ - top-level: Product One
    arbitrary: Value
    nested-products:
     - nested: Associated Product
