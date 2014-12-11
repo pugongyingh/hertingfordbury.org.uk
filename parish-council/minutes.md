@@ -3,6 +3,15 @@ layout: gh-pages
 permalink: /parish-council/minutes/
 ---
 
+<ul>
+	{% for year in site.data.minutes %}
+		<li>
+			{{ member.name }}
+		</li>
+	{% endfor %}
+</ul>
+
+
 <cfoutput>
 	<div class="panelLeft">
 		<h2>Minutes of Previous Meetings</h2>
