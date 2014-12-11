@@ -1,9 +1,19 @@
 ---
 layout: gh-pages
 permalink: /parish-council/minutes/
+minutes:
+	- year: 2008
 ---
 
+{{ page.minutes.year }}
+
 {{ site.data.minutes.years[0].2008.file }}
+
+
+{% for year in site.data.minutes %}
+
+{% endfor %}
+
 
 <ul>
 	{% for year in site.data.minutes %}
