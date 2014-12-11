@@ -2,7 +2,7 @@
 layout: gh-pages
 permalink: /parish-council/minutes/
 minutes:
-	- year: 2008
+- year: 2008
 ---
 
 {{ page.minutes.year }}
