@@ -22,7 +22,7 @@ products:
 
 
 minutes:
- - years: 2008
+ - years:
    - year: 2008
      jan: abc.pdf
 
