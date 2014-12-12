@@ -18,6 +18,15 @@ products:
    arbitrary: Value
  - top-level: Product Four
    arbitrary: SomeValue
+
+
+
+minutes:
+ - years: 2008
+   - year: 2008
+     jan: abc.pdf
+
+
 ---
 
 <ul>{% for product in page.products %}
@@ -27,7 +36,6 @@ products:
     {% endfor %}</ul>
   {% endif %}</li>{% endfor %}
 </ul>
-
 
 {{ page.minutes.year }}
 
