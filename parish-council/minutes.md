@@ -25,7 +25,7 @@ minutes:
  - years:
    - year: 2008
      - file:
-       jan: abc.pdf
+       - jan: abc.pdf
 
 
 ---
