@@ -9,7 +9,9 @@ permalink: /parish-council/when-and-where-we-meet/
 	<p>Hertingfordbury Parish Council meets regularly throughout the year on the 2nd Wednesday of every month (except August) in the Main Hall of <a href="http://www.hertingfordbury.herts.sch.uk/">Hertingfordbury Cowper C of E (VA) Primary School</a> in Birch Green at 7.30pm. All meetings are open to the public.</p>
 	<p>Future Dates are:</p>
 
-	<div id="meetings"></div>
+	<div id="meetings">
+		<ul id="meetingDates"></ul>
+	</div>
 </div>
 
 <div class="panelRight">
@@ -21,15 +23,28 @@ permalink: /parish-council/when-and-where-we-meet/
 </div>
 
 <script>
-	$.ajax('meetings.cfm', {
-		 type: 'get'
-		,dataType: 'html'
-		,success : function(response) {
-			$('#meetings').html(response);
-		}
-		,error: function() {
-			var response = '<ul><li>Unable to display meeting schedule at this time.</li></ul>'
-			$('#meetings').html(response);
-		}
+	$(function(){
+		$.ajax('http://api.conceptpreview.dev/index.cfm?endpoint=%2Fminutes', {
+			 type: 'POST'
+			,data: {'a': '28CDDFCC-9084-4D0C-AE919926D6BA6496', 'b': 'A66113BD-BF66-4AC3-812A06F7DBB0F950'}
+			,success: function(meetingDates) {
+				if (meetingDates.length == 0) {
+					$('div#meetings').html('<ul><li>Unable to display the meeting schedule at this time.</li></ul>');
+				} else {
+					var meetingList = $('ul#meetingDates')
+
+					$.each(meetingDates, function(i, listItem) {
+						meetingList.append(
+							$('<li>' + listItem + '</li>')
+						);
+					});
+				}
+			}
+			,error: function(xhr, status, error) {
+				var response = '<ul><li>Unable to display the meeting schedule at this time.</li></ul>'
+
+				$('div#meetings').html(response);
+			}
+		});
 	});
 </script>
