@@ -24,7 +24,7 @@ products:
 minutes:
  - years:
    - year: 2008
-     - jan: abc.pdf
+     jan: abc.pdf
 
 
 ---
