@@ -1,0 +1,7 @@
+<h2>Minutes of Previous Meetings</h2>
+
+<ul>{% for meeting in year.meetings %}
+	<li>
+		<a href="/council/minutes/{{ year.date }}/{{ meeting.file }}">{{ meeting.date }}</a>
+	</li>{% endfor %}
+</ul>
