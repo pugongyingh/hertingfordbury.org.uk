@@ -1,0 +1,45 @@
+{
+	 "date":"2012"
+	,"meetings":[
+		{
+			 "date":"11th January 2012"
+			,"file":"minutes-20120111.pdf"
+		}
+		,{
+			 "date":"8th February 2012"
+			,"file":"minutes-20120208.pdf"
+		}
+		,{
+			 "date":"14th March 2012"
+			,"file":"minutes-20120314.pdf"
+		}
+		,{
+			 "date":"11th April 2012"
+			,"file":"minutes-20120411.pdf"
+		}
+		,{
+			 "date":"9th May 2012"
+			,"file":"minutes-20120509.pdf"
+		}
+		,{
+			 "date":"13th June 2012"
+			,"file":"minutes-20120613.pdf"
+		}
+		,{
+			 "date":"11th July 2012"
+			,"file":"minutes-20120711.pdf"
+		}
+		,{
+			 "date":"12th September 2012"
+			,"file":"minutes-20120912.pdf"
+		}
+		,{
+			 "date":"10th October 2012"
+			,"file":"minutes-20121010.pdf"
+		}
+		,{
+			 "date":"14th November 2012"
+			,"file":"minutes-20121114.pdf"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+<h3>Other Years</h3>
+
+<ul>{% for years in site.data.minutes reversed %}
+{% assign year = years[1] %}
+	<li>
+		<a href="/parish-council/minutes/{{ year.date }}">{{ year.date }}</a>
+	</li>{% endfor %}
+</ul>

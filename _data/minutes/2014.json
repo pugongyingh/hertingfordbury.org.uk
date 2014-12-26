@@ -1,0 +1,37 @@
+{
+	 "date":"2014"
+	,"meetings":[
+		{
+			 "date":"8th January 2014"
+			,"file":"minutes-20140108.pdf"
+		}
+		,{
+			 "date":"12th February 2014"
+			,"file":"minutes-20140212.pdf"
+		}
+		,{
+			 "date":"12th March 2014"
+			,"file":"minutes-20140312.pdf"
+		}
+		,{
+			 "date":"9th April 2014"
+			,"file":"minutes-20140409.pdf"
+		}
+		,{
+			 "date":"14th May 2014"
+			,"file":"minutes-20140514.pdf"
+		}
+		,{
+			 "date":"11th June 2014"
+			,"file":"minutes-20140611.pdf"
+		}
+		,{
+			 "date":"9th July 2014"
+			,"file":"minutes-20140709.pdf"
+		}
+		,{
+			 "date":"10th September 2014"
+			,"file":"minutes-20140910.pdf"
+		}
+	]
+}
