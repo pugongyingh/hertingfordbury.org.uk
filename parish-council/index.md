@@ -16,10 +16,9 @@ layout: gh-pages
 	<p><a href="/parish-council/contact">Mr Tom Brindley</a></p>
 	<p>Clerk to the Council<br />
 		Hertingfordbury Parish Council<br />
-		191 High Street<br />
-		Codicote<br />
-	SG4 8UD</p>
-	<p>Tel: 01438 820477</p>
+		20 Church End<br />
+		Braughing<br />
+		SG11 2QA</p>
 	<p>To report an issue with any of the subjects below, call East Herts District Council on 01279 655261 or visit these pages:</p>
 
 	<ul>

@@ -45,11 +45,10 @@ permalink: /parish-council/contact/
 	</form>
 	<br />
 	<p>The Clerk to Hertingfordbury Parish Council can also be contacted here:</p>
-	<p>Mr Tom Brindley</p>
+	<p>Nina L Villa</p>
 	<p>Clerk to the Council<br />
 		Hertingfordbury Parish Council<br />
-		191 High Street<br />
-		Codicote<br />
-	SG4 8UD</p>
-	<p>Tel: 01438 820477</p>
+		20 Church End<br />
+		Braughing<br />
+		SG11 2QA</p>
 </fieldset>
