@@ -13,7 +13,7 @@ layout: gh-pages
 		The greater part of the parish lies at an altitude of over 200 ft. above the ordnance datum, reaching 264 ft. in the west, but
 		in the east of the parish and along the northern border, in the valleys of the Lea and Mimram, the ground is below 200 ft.</p>
 	<p>The Clerk to Hertingfordbury Parish Council can be contacted here:</p>
-	<p><a href="/parish-council/contact">Mr Tom Brindley</a></p>
+	<p><a href="/parish-council/contact">Nina L Villa</a></p>
 	<p>Clerk to the Council<br />
 		Hertingfordbury Parish Council<br />
 		20 Church End<br />
