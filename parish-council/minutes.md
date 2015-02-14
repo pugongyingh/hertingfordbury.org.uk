@@ -4,7 +4,7 @@ permalink: /parish-council/minutes/
 ---
 
 <div class="panelLeft">
-	{% assign year = site.data.minutes.2014 %}
+	{% assign year = site.data.minutes.2015 %}
 
 	{% include minutes.html %}
 
