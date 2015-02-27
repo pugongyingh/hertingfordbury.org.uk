@@ -13,7 +13,7 @@ permalink: /parish-council/what-we-do/
 	<ul>
 		<li>A consultee to all planning applications relating to the Parish of Hertingfordbury, and
 			makes comments as appropriate to the District Council. Recent planning applications can be viewed on
-			the <a id="eastHertsPlanningLink" href="http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&amp;SEARCHBUTTON.MAINBODY.WPACIS.1.=Search" target="_blank">East Hertfordshire District Council website</a>.</li>
+			the <a id="eastHertsPlanningLink" href="https://publicaccess.eastherts.gov.uk/online-applications/advancedSearchResults.do?action=firstPage&amp;searchCriteria.parish=25&amp;searchType=Application" target="_blank">East Hertfordshire District Council website</a>.</li>
 		<li>Looks after the Grade II Listed War Memorial and bus shelters</li>
 		<li>Looks after and conserves the Village Green spaces and other woodland areas</li>
 		<li>Monitors public footpaths and bridleways</li>
@@ -31,22 +31,3 @@ permalink: /parish-council/what-we-do/
 <div class="panelRight">
 	<img src="/common/image/warMemorial.jpg" alt="Birch Green War Memorial" width="300" />
 </div>
-
-<script>
-	$(function(){
-		Date.prototype.addDays = function (n) {
-			var time = this.getTime();
-			var changedDate = new Date(time + (n * 24 * 60 * 60 * 1000));
-
-			this.setTime(changedDate.getTime());
-
-			return this;
-		};
-
-		var date = new Date();
-		var planningDate = date.addDays(-120);
-		var planningDateDisplay = planningDate.getDate() + '/' + planningDate.getMonth() + '/' + planningDate.getFullYear();
-
-		$('a#eastHertsPlanningLink').attr('href', 'http://online.eastherts.gov.uk/swiftlg/apas/run/WPHAPPCRITERIA?PARISH.MAINBODY.WPACIS.1.=25&REGFROMDATE.MAINBODY.WPACIS.1.=' + planningDateDisplay + '&SEARCHBUTTON.MAINBODY.WPACIS.1.=Search');
-	});
-</script>
