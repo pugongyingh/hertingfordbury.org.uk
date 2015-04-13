@@ -1,0 +1,21 @@
+{
+	 "date":"2015"
+	,"meetings":[
+		{
+			 "date":"14th January 2015"
+			,"file":"minutes-20150114.pdf"
+		}
+		,{
+			 "date":"11th February 2015"
+			,"file":"minutes-20150211.pdf"
+		}
+		,{
+			 "date":"11th March 2015"
+			,"file":"minutes-20150311.pdf"
+		}
+		,{
+			 "date":"8th April 2015 (Agenda)"
+			,"file":"agenda-20150408.pdf"
+		}
+	]
+}

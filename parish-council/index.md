@@ -13,13 +13,12 @@ layout: gh-pages
 		The greater part of the parish lies at an altitude of over 200 ft. above the ordnance datum, reaching 264 ft. in the west, but
 		in the east of the parish and along the northern border, in the valleys of the Lea and Mimram, the ground is below 200 ft.</p>
 	<p>The Clerk to Hertingfordbury Parish Council can be contacted here:</p>
-	<p><a href="/parish-council/contact">Mr Tom Brindley</a></p>
+	<p><a href="/parish-council/contact">Nina L Villa</a></p>
 	<p>Clerk to the Council<br />
 		Hertingfordbury Parish Council<br />
-		191 High Street<br />
-		Codicote<br />
-	SG4 8UD</p>
-	<p>Tel: 01438 820477</p>
+		20 Church End<br />
+		Braughing<br />
+		SG11 2QA</p>
 	<p>To report an issue with any of the subjects below, call East Herts District Council on 01279 655261 or visit these pages:</p>
 
 	<ul>
