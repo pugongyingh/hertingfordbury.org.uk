@@ -13,7 +13,7 @@ permalink: /parish-council/what-we-do/
 	<ul>
 		<li>A consultee to all planning applications relating to the Parish of Hertingfordbury, and
 			makes comments as appropriate to the District Council. Recent planning applications can be viewed on
-			the <a id="eastHertsPlanningLink" href="https://publicaccess.eastherts.gov.uk/online-applications/advancedSearchResults.do?action=firstPage&amp;searchCriteria.parish=25&amp;searchType=Application" target="_blank">East Hertfordshire District Council website</a>.</li>
+			the <a id="eastHertsPlanningLink" href="https://publicaccess.eastherts.gov.uk/online-applications/advancedSearchResults.do?action=firstPage&amp;searchCriteria.parish=25&amp;searchCriteria.ward=HESO&amp;searchType=Application" target="_blank">East Hertfordshire District Council website</a>.</li>
 		<li>Looks after the Grade II Listed War Memorial and bus shelters</li>
 		<li>Looks after and conserves the Village Green spaces and other woodland areas</li>
 		<li>Monitors public footpaths and bridleways</li>
