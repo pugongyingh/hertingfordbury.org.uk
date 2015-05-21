@@ -9,23 +9,23 @@ permalink: /parish-council/who-we-are/
 	<table border="0" cellpadding="0" cellspacing="5">
 		<tr>
 			<td valign="top"><strong>Chairman:</strong></td>
-			<td valign="top">Catherine Edwards</td>
+			<td valign="top">Gary O'Leary</td>
 		</tr>
 		<tr>
 			<td valign="top"><strong>Vice Chairman:</strong></td>
-			<td valign="top">Gary O'Leary</td>
+			<td valign="top">Barry Wade Simkins</td>
 		</tr>
 		<tr>
 			<td valign="top"><strong>Councillors:</strong></td>
 			<td valign="top">
-				<p>Karen Barden <br />
-					Haidy Blake <br />
-					Lizzer Bradbury <br />
-					Tommy Brennan <br />
-					Shobha Edgell <br />
-					Basil Jones<br />
-					Roger Morris <br />
-				Paul Rochford</p></td>
+				<p>Haidy Blake<br />
+					Lizzer Bradbury<br />
+					Tommy Brennan<br />
+					Shobha Edgell<br />
+					Roger Morris<br />
+					Paul Rochford
+				</p>
+			</td>
 		</tr>
 		<tr>
 			<td valign="top"><strong>Parish Clerk:</strong></td>
