@@ -1,5 +1,6 @@
 # Site settings
 title: Hertingfordbury Parish
+url: "http://www.hertingfordbury.org.uk"
 
 # Build settings
 markdown: kramdown
