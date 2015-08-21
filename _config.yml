@@ -3,3 +3,5 @@ title: Hertingfordbury Parish
 
 # Build settings
 markdown: kramdown
+
+subsume: https://api.subsume.io/
