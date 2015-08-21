@@ -14,27 +14,27 @@ permalink: /parish-council/contact/
 
 	<p>* = an entry for this field is required. </p>
 
-	<form id="forContact" name="forContact" method="post" action="">
+	<form id="forContact" name="forContact" method="post" action="{{ site.subsume }}hertingfordbury/contact">
 		<p>
 			<cfoutput>
-				<label for="strName">Name</label>
-				<input id="strName" name="strName" type="text" value="" />
+				<label for="name">Name</label>
+				<input id="name" name="name" type="text" value="" />
 				<br />
 
-				<label for="strPhone">Telephone Number</label>
-				<input id="strPhone" name="strPhone" type="text" value="" />
+				<label for="telephone">Telephone Number</label>
+				<input id="telephone" name="telephone" type="text" value="" />
 				<br />
 
-				<label for="strEmailAddress">Email Address</label>
-				<input id="strEmailAddress" name="strEmailAddress" type="text" value="" />
+				<label for="emailAddress">Email Address</label>
+				<input id="emailAddress" name="emailAddress" type="text" value="" />
 				<br />
 
-				<label for="strSubject">* Subject</label>
-				<input id="strSubject" name="strSubject" type="text" value="" />
+				<label for="subject">* Subject</label>
+				<input id="subject" name="subject" type="text" value="" />
 				<br />
 
-				<label for="strEnquiry">* Enquiry</label>
-				<textarea id="strEnquiry" name="strEnquiry" cols="45" rows="5"></textarea>
+				<label for="enquiry">* Enquiry</label>
+				<textarea id="enquiry" name="enquiry" cols="45" rows="5"></textarea>
 				<br />
 
 				<label></label>

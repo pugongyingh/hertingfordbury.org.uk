@@ -4,3 +4,5 @@ url: "http://www.hertingfordbury.org.uk"
 
 # Build settings
 markdown: kramdown
+
+subsume: https://api.subsume.io/
