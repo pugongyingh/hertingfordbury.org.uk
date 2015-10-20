@@ -13,12 +13,12 @@ layout: gh-pages
 		The greater part of the parish lies at an altitude of over 200 ft. above the ordnance datum, reaching 264 ft. in the west, but
 		in the east of the parish and along the northern border, in the valleys of the Lea and Mimram, the ground is below 200 ft.</p>
 	<p>The Clerk to Hertingfordbury Parish Council can be contacted here:</p>
-	<p><a href="/parish-council/contact">Nina L Villa</a></p>
+	<p><a href="/parish-council/contact">Amanda Glew</a></p>
 	<p>Clerk to the Council<br />
 		Hertingfordbury Parish Council<br />
-		20 Church End<br />
-		Braughing<br />
-		SG11 2QA</p>
+		22 Firs Walk<br />
+		Tewin<br />
+		AL6 0NZ</p>
 	<p>To report an issue with any of the subjects below, call East Herts District Council on 01279 655261 or visit these pages:</p>
 
 	<ul>

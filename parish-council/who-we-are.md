@@ -30,12 +30,12 @@ permalink: /parish-council/who-we-are/
 		<tr>
 			<td valign="top"><strong>Parish Clerk:</strong></td>
 			<td valign="top">
-				<p><a href="/parish-council/contact">Nina L Villa</a></p>
+				<p><a href="/parish-council/contact">Amanda Glew</a></p>
 				<p>Clerk to the Council<br />
 					Hertingfordbury Parish Council<br />
-					20 Church End<br />
-					Braughing<br />
-					SG11 2QA</p>
+					22 Firs Walk<br />
+					Tewin<br />
+					AL6 0NZ</p>
 			</td>
 		</tr>
 	</table>
