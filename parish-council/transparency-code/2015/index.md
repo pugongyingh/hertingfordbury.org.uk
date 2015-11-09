@@ -13,4 +13,5 @@ permalink: /parish-council/transparency-code/2015/
 	<li><a href="./2015-uncontested-election-result.pdf">Uncontested Election Result</a></li>
 	<li><a href="./2015-annual-governance-statement.pdf">Annual Governance Statement</a></li>
 	<li><a href="./2015-conclusion-of-audit.pdf">Conclusion of Audit</a></li>
+	<li><a href="./2015-schedule-of-village-greens.xlsx">Schedule of Village Greens</a></li>
 </ul>
