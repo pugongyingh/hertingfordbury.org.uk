@@ -19,5 +19,6 @@ permalink: /parish-council/policies/
 		<li><a href="/council/policy/HPC%20risk%20register.pdf">Risk Register</a></li>
 		<li><a href="/council/policy/HPC%20casual%20vacancy.pdf">Co-option of New Councillor</a></li>
 		<li><a href="/council/policy/Greens%20Crossings%20-%20Advice%20from%20Counsel.pdf">Greens Crossings - Advice from Counsel</a></li>
+		<li><a href="/council/policy/village-green-management-policies/">Village Green Management Policies</a></li>
 	</ul>
 </div>
