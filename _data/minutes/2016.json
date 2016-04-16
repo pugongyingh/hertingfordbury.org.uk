@@ -2,12 +2,12 @@
 	 "date":"2016"
 	,"meetings":[
 		{
-			 "date":"10th February 2016 (Agenda)"
-			,"file":"agenda-20160210.pdf"
-		},
-		{
 			 "date":"10th February 2016"
 			,"file":"minutes-20160210.pdf"
+		},
+		{
+			 "date":"10th February 2016 (Agenda)"
+			,"file":"agenda-20160210.pdf"
 		}
 	]
 }
