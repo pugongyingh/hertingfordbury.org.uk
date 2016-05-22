@@ -4,16 +4,24 @@
 		{
 			 "date":"10th February 2016 (Agenda)"
 			,"file":"agenda-20160210.pdf"
-		},
-		{
+		}
+		,{
 			 "date":"10th February 2016"
 			,"file":"minutes-20160210.pdf"
-		},
-		{
+		}
+		,{
 			 "date":"13th April 2016 (Agenda)"
 			,"file":"agenda-20160413.pdf"
-		},
-		{
+		}
+		,{
+			 "date":"13th April 2016"
+			,"file":"minutes-20160413.pdf"
+		}
+		,{
+			 "date":"11th May 2016 (Annual Meeting Notice)"
+			,"file":"agenda-agm-20160511.pdf"
+		}
+		,{
 			 "date":"11th May 2016 (Agenda)"
 			,"file":"agenda-20160511.pdf"
 		}
