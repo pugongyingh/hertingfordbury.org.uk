@@ -19,10 +19,6 @@ permalink: /parish-council/policies/
 		<li><a href="/council/policy/HPC%20casual%20vacancy.pdf">Co-option of New Councillor</a></li>
 		<li><a href="/council/policy/Greens%20Crossings%20-%20Advice%20from%20Counsel.pdf">Greens Crossings - Advice from Counsel</a></li>
 		<li><a href="/council/policy/village-green-management-policies/">Village Green Management Policies</a></li>
-		<li><a href="/council/policy/Declaration%20that%20acs%20are%20unaudited.pdf">Declaration of Unaudited Accounting Statements 2016</a></li>
-		<li><a href="/council/policy/Period%20for%20Exercise%20of%20Public%20Rights.pdf">Notice of Period for the Exercise of Public Rights with Summary of Electors' Rights 2016</a></li>
-		<li><a href="/council/policy/HPC%20Unaudited%20Accounting%20Statements%202015-2016.pdf">Accounting Statements 2015/16</a></li>
-		<li><a href="/council/policy/HPC%20Annual%20Governance%20Statement%202015-16.pdf">Annual Governance Statement 2015/16</a></li>
 	</ul>
 </div>
 
