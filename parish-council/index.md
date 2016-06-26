@@ -32,4 +32,5 @@ layout: gh-pages
 <div class="panelRight">
 	<img src="/common/image/signPost/birchGreen.jpg" alt="Birch Green" width="301" height="210" style="margin:0 0 5px" />
 	<img src="/common/image/signPost/coleGreen.jpg" alt="Cole Green" width="300" height="150" style="margin:5px 0 0" />
+	<img src="/common/image/queen-birthday.jpg" alt="Queen's 90th Birthday" title="Queen's 90th Birthday" width="300" height="150" style="margin:5px 0 0" />
 </div>
