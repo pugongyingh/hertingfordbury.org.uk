@@ -22,7 +22,6 @@ permalink: /parish-council/who-we-are/
 					Lizzer Bradbury<br />
 					Tommy Brennan<br />
 					Shobha Edgell<br />
-					Matt Hay<br />
 					Roger Morris<br />
 					Paul Rochford
 				</p>
