@@ -59,7 +59,11 @@
 		}
 		,{
 			"date":"11th October 2017 (Agenda)"
-		   ,"file":"agenda-20171011.pdf"
+			,"file":"agenda-20171011.pdf"
+		}
+		,{
+			"date":"13th September 2017"
+		   ,"file":"minutes-20170913.pdf"
 		}
 	]
 }
