@@ -51,4 +51,6 @@ permalink: /parish-council/contact/
 		22 Firs Walk<br />
 		Tewin<br />
 		AL6 0NZ</p>
+
+	<p>If you want to send an attachment, please email the Clerk directly - <a href="mailto:parishclerk@hertingfordbury.org.uk">parishclerk@hertingfordbury.org.uk</a></p>
 </fieldset>
