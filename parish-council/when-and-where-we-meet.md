@@ -9,8 +9,29 @@ permalink: /parish-council/when-and-where-we-meet/
 	<p>Hertingfordbury Parish Council meets regularly throughout the year on the 2nd Wednesday of February, April, May, July, September, October and December in the Main Hall of <a href="http://www.hertingfordbury.herts.sch.uk/">Hertingfordbury Cowper C of E (VA) Primary School</a> in Birch Green at 7.00pm. All meetings are open to the public.</p>
 	<p>Future Dates are:</p>
 
+{% comment %}
 	<div id="meetings">
 		<ul id="meetingDates"></ul>
+	</div>
+{% endcomment %}
+
+	<div id="meetings">
+		<ul id="meetingDates">
+			<li>No meeting in November</li>
+			<li>Wednesday 13th December 2017</li>
+			<li>No meeting in January</li>
+			<li>Wednesday 7th February</li>
+			<li>Wednesday 28th March</li>
+			<li>No meeting in April</li>
+			<li>Wednesday 9th May</li>
+			<li>No meeting in June</li>
+			<li>Wednesday 11th July</li>
+			<li>No meeting in August</li>
+			<li>Wednesday 12th September</li>
+			<li>Wednesday 10th October</li>
+			<li>No meeting in November</li>
+			<li>Wednesday 12th December</li>
+		</ul>
 	</div>
 </div>
 
@@ -20,25 +41,6 @@ permalink: /parish-council/when-and-where-we-meet/
 	<p />
 
 	<p style="text-align:left;width:300px;float:right;">The Annual Parish Meeting and the Annual Meeting of Hertingfordbury Parish Council are held in April and May respectively.</p>
-</div>
-
-<div id="meetings">
-	<ul id="meetingDates">
-		<li>No meeting in November</li>
-		<li>Wednesday 13th December 2017</li>
-		<li>No meeting in January</li>
-		<li>Wednesday 7th February</li>
-		<li>Wednesday 28th March</li>
-		<li>No meeting in April</li>
-		<li>Wednesday 9th May</li>
-		<li>No meeting in June</li>
-		<li>Wednesday 11th July</li>
-		<li>No meeting in August</li>
-		<li>Wednesday 12th September</li>
-		<li>Wednesday 10th October</li>
-		<li>No meeting in November</li>
-		<li>Wednesday 12th December</li>
-	</ul>
 </div>
 
 {% comment %}
