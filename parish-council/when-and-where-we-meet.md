@@ -22,6 +22,26 @@ permalink: /parish-council/when-and-where-we-meet/
 	<p style="text-align:left;width:300px;float:right;">The Annual Parish Meeting and the Annual Meeting of Hertingfordbury Parish Council are held in April and May respectively.</p>
 </div>
 
+<div id="meetings">
+	<ul id="meetingDates">
+		<li>No meeting in November</li>
+		<li>Wednesday 13th December 2017</li>
+		<li>No meeting in January</li>
+		<li>Wednesday 7th February</li>
+		<li>Wednesday 28th March</li>
+		<li>No meeting in April</li>
+		<li>Wednesday 9th May</li>
+		<li>No meeting in June</li>
+		<li>Wednesday 11th July</li>
+		<li>No meeting in August</li>
+		<li>Wednesday 12th September</li>
+		<li>Wednesday 10th October</li>
+		<li>No meeting in November</li>
+		<li>Wednesday 12th December</li>
+	</ul>
+</div>
+
+{% comment %}
 <script>
 	$(function(){
 		$.ajax('{{ site.subsume }}hertingfordbury/meetings', {
@@ -47,3 +67,4 @@ permalink: /parish-council/when-and-where-we-meet/
 		});
 	});
 </script>
+{% endcomment %}
