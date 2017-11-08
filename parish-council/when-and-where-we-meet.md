@@ -17,20 +17,20 @@ permalink: /parish-council/when-and-where-we-meet/
 
 	<div id="meetings">
 		<ul id="meetingDates">
-			<li>No meeting in November</li>
+			<li>No meeting in November 2017</li>
 			<li>Wednesday 13th December 2017</li>
-			<li>No meeting in January</li>
-			<li>Wednesday 7th February</li>
-			<li>Wednesday 28th March</li>
-			<li>No meeting in April</li>
-			<li>Wednesday 9th May</li>
-			<li>No meeting in June</li>
-			<li>Wednesday 11th July</li>
-			<li>No meeting in August</li>
-			<li>Wednesday 12th September</li>
-			<li>Wednesday 10th October</li>
-			<li>No meeting in November</li>
-			<li>Wednesday 12th December</li>
+			<li>No meeting in January 2018</li>
+			<li>Wednesday 7th February 2018</li>
+			<li>Wednesday 28th March 2018</li>
+			<li>No meeting in April 2018</li>
+			<li>Wednesday 9th May 2018</li>
+			<li>No meeting in June 2018</li>
+			<li>Wednesday 11th July 2018</li>
+			<li>No meeting in August 2018</li>
+			<li>Wednesday 12th September 2018</li>
+			<li>Wednesday 10th October 2018</li>
+			<li>No meeting in November 2018</li>
+			<li>Wednesday 12th December 2018</li>
 		</ul>
 	</div>
 </div>
