@@ -18,9 +18,9 @@ permalink: /parish-council/who-we-are/
 		<tr>
 			<td valign="top"><strong>Councillors:</strong></td>
 			<td valign="top">
-				<p>Haidy Blake<br />
+				<p>Magda Atkins<br />
+					Haidy Blake<br />
 					Lizzer Bradbury<br />
-					Tommy Brennan<br />
 					Shobha Edgell<br />
 					Roger Morris<br />
 					Paul Rochford
