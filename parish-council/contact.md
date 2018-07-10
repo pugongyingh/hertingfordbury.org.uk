@@ -16,32 +16,31 @@ permalink: /parish-council/contact/
 
 	<form id="forContact" name="forContact" method="post" action="{{ site.subsume }}hertingfordbury/contact">
 		<p>
-			<cfoutput>
-				<label for="name">Name</label>
-				<input id="name" name="name" type="text" value="" />
-				<br />
+			<label for="name">Name</label>
+			<input id="name" name="name" type="text" value="" />
+			<br />
 
-				<label for="telephone">Telephone Number</label>
-				<input id="telephone" name="telephone" type="text" value="" />
-				<br />
+			<label for="telephone">Telephone Number</label>
+			<input id="telephone" name="telephone" type="text" value="" />
+			<br />
 
-				<label for="emailAddress">Email Address</label>
-				<input id="emailAddress" name="emailAddress" type="text" value="" />
-				<br />
+			<label for="emailAddress">Email Address</label>
+			<input id="emailAddress" name="emailAddress" type="text" value="" />
+			<br />
 
-				<label for="subject">* Subject</label>
-				<input id="subject" name="subject" type="text" value="" />
-				<br />
+			<label for="subject">* Subject</label>
+			<input id="subject" name="subject" type="text" value="" />
+			<br />
 
-				<label for="enquiry">* Enquiry</label>
-				<textarea id="enquiry" name="enquiry" cols="45" rows="5"></textarea>
-				<br />
+			<label for="enquiry">* Enquiry</label>
+			<textarea id="enquiry" name="enquiry" cols="45" rows="5"></textarea>
+			<br />
 
-				<label></label>
-				<input id="btnReset" name="btnReset" type="reset" value="Reset" style="width:60px;" />
-				<input id="btnSubmit" name="btnSubmit" type="submit" value="Submit" style="width:60px;" />
-			</cfoutput>
+			<label></label>
+			<input id="btnReset" name="btnReset" type="reset" value="Reset" style="width:60px;" />
+			<input id="btnSubmit" name="btnSubmit" type="submit" value="Submit" style="width:60px;" />
 		</p>
+		<div class="g-recaptcha" data-sitekey="6Lc-UmMUAAAAAEcZ1hd-eZGggdNCL3Kmv65b-GYV"></div>
 	</form>
 	<br />
 	<p>The Clerk to Hertingfordbury Parish Council can also be contacted here:</p>
