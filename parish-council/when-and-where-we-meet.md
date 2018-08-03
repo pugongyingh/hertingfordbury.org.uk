@@ -17,8 +17,7 @@ permalink: /parish-council/when-and-where-we-meet/
 
 	<div id="meetings">
 		<ul id="meetingDates">
-			<li>Wednesday 11th July 2018</li>
-			<li>No meeting in August 2018</li>
+			<li>Monday 20th August 2018</li>
 			<li>Wednesday 12th September 2018</li>
 			<li>Wednesday 10th October 2018</li>
 			<li>No meeting in November 2018</li>
