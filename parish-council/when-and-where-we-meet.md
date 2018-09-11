@@ -36,10 +36,6 @@ permalink: /parish-council/when-and-where-we-meet/
 		$.ajax('{{ site.subsume }}hertingfordbury/meetings', {
 			 type: 'GET'
 			,success: function(meetingDates) {
-
-				console.log( meetingDates.length );
-
-
 				if (meetingDates.length == 0) {
 					$('div#meetings').html('<ul><li>Sorry, we are unable to display the schedule of meetings at this time</li></ul>');
 				} else {
@@ -55,6 +51,7 @@ permalink: /parish-council/when-and-where-we-meet/
 			,error: function(xhr, status, error) {
 				var response = '<ul><li>Sorry, we are unable to display the schedule of meetings at this time</li></ul>'
 
+				console.log( 'some failure' );
 				console.log( error );
 
 				$('div#meetings').html(response);
