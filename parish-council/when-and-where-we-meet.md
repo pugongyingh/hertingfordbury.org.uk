@@ -51,6 +51,8 @@ permalink: /parish-council/when-and-where-we-meet/
 			,error: function(xhr, status, error) {
 				var response = '<ul><li>Sorry, we are unable to display the schedule of meetings at this time</li></ul>'
 
+				console.log( error );
+
 				$('div#meetings').html(response);
 			}
 		});
