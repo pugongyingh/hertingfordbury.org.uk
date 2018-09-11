@@ -9,15 +9,6 @@ permalink: /parish-council/when-and-where-we-meet/
 	<p>Hertingfordbury Parish Council meets regularly throughout the year in the Main Hall of <a href="http://www.hertingfordbury.herts.sch.uk/">Hertingfordbury Cowper C of E (VA) Primary School</a> in Birch Green at 7.00pm. All meetings are open to the public.</p>
 	<p>Future Dates are:</p>
 
-	<div>
-		<ul>
-			<li>Wednesday 12th September 2018</li>
-			<li>Wednesday 10th October 2018</li>
-			<li>No meeting in November 2018</li>
-			<li>Wednesday 12th December 2018</li>
-		</ul>
-	</div>
-
 	<div id="meetings">
 		<ul id="meetingDates"></ul>
 	</div>
