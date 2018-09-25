@@ -21,7 +21,7 @@ permalink: /parish-council/who-we-are/
 				<p>Magda Atkins<br />
 					Haidy Blake<br />
 					Lizzer Bradbury<br />
-					Cllr Jim Coppard<br />
+					Jim Coppard<br />
 					Roger Morris<br />
 					Paul Rochford
 				</p>
