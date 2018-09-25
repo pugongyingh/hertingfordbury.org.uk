@@ -21,7 +21,7 @@ permalink: /parish-council/who-we-are/
 				<p>Magda Atkins<br />
 					Haidy Blake<br />
 					Lizzer Bradbury<br />
-					Shobha Edgell<br />
+					Cllr Jim Coppard<br />
 					Roger Morris<br />
 					Paul Rochford
 				</p>
