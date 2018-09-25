@@ -57,8 +57,8 @@ permalink: /parish-council/who-we-are/
 				Councillor</strong>
 			</td>
 			<td align="right" valign="top">
-				<p><img src="http://www.hertsdirect.org/hertscouncillors/councillors/kencroftonphoto" alt="Ken Crofton" width="128" height="150" /></p>
-				<p><a href="http://www.hertsdirect.org/your-council/councillors/ccllrs/kencrofton/" target="_blank">Ken Crofton</a></p>
+				<p><img src="https://democracy.hertfordshire.gov.uk/UserData/2/5/1/Info00000152/bigpic.jpg" alt="Ken Crofton" width="128" height="150" /></p>
+				<p><a href="https://democracy.hertfordshire.gov.uk/mgUserInfo.aspx?UID=152" target="_blank">Ken Crofton</a></p>
 			</td>
 		</tr>
 		<tr>
