@@ -1,0 +1,15 @@
+{%- assign thisYear = page.url | split: '/' | last -%}
+{%- assign dataFile = 'minutes-' | append: thisYear -%}
+{%- assign year = site.data.minutes[dataFile] -%}
+
+<div class="panelLeft">
+	{%- include minutes.html -%}
+
+	<br />
+
+	{%- include years.html -%}
+</div>
+
+<div class="panelLeft">
+	<img src="/common/image/noticeBoard.jpg" alt="Notice Board" width="300" height="309" />
+</div>
