@@ -1,8 +1,8 @@
-# Site settings
 title: Hertingfordbury Parish
-url: "http://www.hertingfordbury.org.uk"
+url: "https://www.hertingfordbury.org.uk"
 
-# Build settings
+permalink: /parish-council/minutes/:name/
+
 markdown: kramdown
 
 subsume: https://api.subsume.io/

@@ -1,10 +1,5 @@
----
-layout: gh-pages
-permalink: /parish-council/minutes/
----
-
-{%- assign latestYear = site.data.minutes.years.data | first -%}
-{%- assign dataFile = 'minutes-' | append: latestYear.year -%}
+{%- assign thisYear = page.url | split: '/' | last -%}
+{%- assign dataFile = 'minutes-' | append: thisYear -%}
 {%- assign year = site.data.minutes[dataFile] -%}
 
 <div class="panelLeft">
