@@ -3,14 +3,16 @@ layout: gh-pages
 permalink: /parish-council/minutes/
 ---
 
-<div class="panelLeft">
-	{% assign year = site.data.minutes.minutes-2018 %}
+{%- assign latestYear = site.data.minutes.years.data | first -%}
+{%- assign dataFile = 'minutes-' | append: latestYear.year -%}
+{%- assign year = site.data.minutes[dataFile] -%}
 
-	{% include minutes.html %}
+<div class="panelLeft">
+	{%- include minutes.html -%}
 
 	<br />
 
-	{% include years.html %}
+	{%- include years.html -%}
 </div>
 
 <div class="panelLeft">
