@@ -14,7 +14,7 @@ permalink: /parish-council/contact/
 
 	<p>* = an entry for this field is required. </p>
 
-	<form id="forContact" name="forContact" method="post" action="{{ site.subsume }}hertingfordbury/contact">
+	<form id="forContact" name="forContact" method="post" action="{{ site.subsume }}hertingfordbury/v1/contact">
 		<p>
 			<label for="name">Name</label>
 			<input id="name" name="name" type="text" value="" />

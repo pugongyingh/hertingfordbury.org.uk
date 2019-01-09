@@ -24,7 +24,7 @@ permalink: /parish-council/when-and-where-we-meet/
 
 <script>
 	$(function(){
-		$.ajax('{{ site.subsume }}hertingfordbury/meetings', {
+		$.ajax('{{ site.subsume }}hertingfordbury/v1/meetings', {
 			 type: 'GET'
 			,success: function(meetingDates) {
 				if (meetingDates.length == 0) {
