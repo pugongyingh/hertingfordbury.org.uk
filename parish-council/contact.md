@@ -40,7 +40,7 @@ permalink: /parish-council/contact/
 			<input id="btnReset" name="btnReset" type="reset" value="Reset" style="width:60px;" />
 			<input id="btnSubmit" name="btnSubmit" type="submit" value="Submit" style="width:60px;" />
 		</p>
-		<div class="g-recaptcha" data-sitekey="6LdXUmMUAAAAADz6MfbjeGthewqTGTGsUAtMDjpQ"></div>
+		<div class="g-recaptcha" data-sitekey="{{ site.recaptchaKey }}"></div>
 	</form>
 	<br />
 	<p>The Clerk to Hertingfordbury Parish Council can also be contacted here:</p>

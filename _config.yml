@@ -6,3 +6,5 @@ permalink: /parish-council/minutes/:name/
 markdown: kramdown
 
 subsume: https://api.subsume.io/
+
+recaptchaKey: 6LdXUmMUAAAAADz6MfbjeGthewqTGTGsUAtMDjpQ

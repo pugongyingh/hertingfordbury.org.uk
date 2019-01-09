@@ -1,4 +1,5 @@
 # Dev site settings
 url: "http://localhost:4000"
 subsume: http://localhost:8503/
-incremental: true
+
+recaptchaKey: 6LezdWsUAAAAAEFTp3ucVeN3W1-7hN9pytk7PqLP
