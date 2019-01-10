@@ -8,3 +8,6 @@ markdown: kramdown
 subsume: https://api.subsume.io/
 
 recaptchaKey: 6LdXUmMUAAAAADz6MfbjeGthewqTGTGsUAtMDjpQ
+
+exclude:
+  - src
