@@ -6,7 +6,7 @@ exports.handler = ( event, context, callback ) => {
 		.then( ( response ) => {
 			callback( null, {
 				headers: {
-					content-type: 'application/json;charset=utf-8'
+					'content-type': 'application/json;charset=utf-8'
 				},
 				statusCode: 200,
 				body: JSON.stringify( response.data )
