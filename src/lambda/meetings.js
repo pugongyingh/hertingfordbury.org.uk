@@ -2,7 +2,9 @@ const axios = require( 'axios' );
 const API_ENDPOINT = 'https://api.subsume.io/hertingfordbury/v1/meetings';
 
 exports.handler = ( event, context, callback ) => {
-	axios.get( API_ENDPOINT )
+	axios.get( API_ENDPOINT, {
+			responseType: 'json'
+		} )
 		.then( ( response ) => {
 			callback( null, {
 				statusCode: 200,
