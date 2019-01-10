@@ -32,7 +32,7 @@ permalink: /parish-council/when-and-where-we-meet/
 				} else {
 					var meetingList = $('ul#meetingDates')
 
-					$.each(meetingDates, function(i, listItem) {
+					$.each(JSON.parse(meetingDates), function(i, listItem) {
 						meetingList.append(
 							$('<li>' + listItem + '</li>')
 						);
