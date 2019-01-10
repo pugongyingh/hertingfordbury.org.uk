@@ -1,3 +1,14 @@
+# knowledge sources
+
+# https://www.raymondcamden.com/2019/01/08/adding-serverless-functions-to-your-netlify-static-site
+# https://scotch.io/tutorials/build-and-deploy-a-serverless-function-to-netlify
+# https://travishorn.com/netlify-lambda-functions-from-scratch-1186f61c659e
+# https://functions.netlify.com/tutorials/
+# https://github.com/netlify/functions
+# https://www.npmjs.com/package/axios
+# https://kapeli.com/cheat_sheets/Axios.docset/Contents/Resources/Documents/index
+# https://github.com/richardherbert/netlify-lambda-functions
+
 [build]
   command = "npm run build"
   publish = "_site/"
