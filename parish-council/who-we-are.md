@@ -13,7 +13,7 @@ permalink: /parish-council/who-we-are/
 		</tr>
 		<tr>
 			<td valign="top"><strong>Vice Chairman:</strong></td>
-			<td valign="top">Barry Wade Simkins</td>
+			<td valign="top">Vacancy</td>
 		</tr>
 		<tr>
 			<td valign="top"><strong>Councillors:</strong></td>
@@ -22,6 +22,7 @@ permalink: /parish-council/who-we-are/
 					Haidy Blake<br />
 					Lizzer Bradbury<br />
 					Jim Coppard<br />
+					Niki Gordon<br />
 					Roger Morris<br />
 					Paul Rochford
 				</p>
