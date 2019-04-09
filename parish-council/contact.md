@@ -44,12 +44,10 @@ permalink: /parish-council/contact/
 	</form>
 	<br />
 	<p>The Clerk to Hertingfordbury Parish Council can also be contacted here:</p>
-	<p>Amanda Glew</p>
+
 	<p>Clerk to the Council<br />
 		Hertingfordbury Parish Council<br />
-		22 Firs Walk<br />
-		Tewin<br />
-		AL6 0NZ</p>
+		(Position currently vacant)</p>
 
 	<p>If you want to send an attachment, please email the Clerk directly - <a href="mailto:parishclerk@hertingfordbury.org.uk">parishclerk@hertingfordbury.org.uk</a></p>
 </fieldset>

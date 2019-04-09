@@ -31,12 +31,9 @@ permalink: /parish-council/who-we-are/
 		<tr>
 			<td valign="top"><strong>Parish Clerk:</strong></td>
 			<td valign="top">
-				<p><a href="/parish-council/contact">Amanda Glew</a></p>
-				<p>Clerk to the Council<br />
-					Hertingfordbury Parish Council<br />
-					22 Firs Walk<br />
-					Tewin<br />
-					AL6 0NZ</p>
+				<p><a href="/parish-council/contact">Clerk to the Council<br />
+		Hertingfordbury Parish Council<br /></a>
+		(position currently vacant)</p>
 			</td>
 		</tr>
 	</table>
