@@ -6,22 +6,17 @@ permalink: /link/
 <h2>Local Interest Website Links</h2>
 
 <table id="links" rules="row" summary="Listing of website links">
-	<col style="width:200px;" />
-	<col />
-
 	<thead>
 		<tr>
 			<th>Website</th>
 			<th>Description</th>
 		</tr>
 	</thead>
-
 	<tbody>
 		<tr>
-			<td><a href="http://www.hertingfordburystmary.org.uk/" target="_blank">St. Mary's Church, Hertingfordbury</a></td>
+			<td><a href="http://www.hertingfordburystmary.org/" target="_blank">St. Mary's Church, Hertingfordbury</a></td>
 			<td>Local parish church.</td>
 		</tr>
-		<tr>
 		<tr>
 			<td><a href="http://www.hertford.net/" target="_blank">Discover
 				Hertford Online</a></td>
