@@ -33,7 +33,7 @@ permalink: /parish-council/who-we-are/
 			<td valign="top">
 				<p><a href="/parish-council/contact">Clerk to the Council<br />
 		Hertingfordbury Parish Council<br /></a>
-		(position currently vacant)</p>
+		Tom Brindley</p>
 			</td>
 		</tr>
 	</table>

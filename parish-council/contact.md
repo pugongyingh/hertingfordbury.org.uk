@@ -45,9 +45,15 @@ permalink: /parish-council/contact/
 	<br />
 	<p>The Clerk to Hertingfordbury Parish Council can also be contacted here:</p>
 
-	<p>Clerk to the Council<br />
+	<p>
+		Clerk to the Council<br />
 		Hertingfordbury Parish Council<br />
-		(Position currently vacant)</p>
+		Tom Brindley<br />
+		191 High Street,<br />
+		Codicote, Herts<br />
+		SG4 8UD<br />
+		Tel: 07956 381764
+	</p>
 
 	<p>If you want to send an attachment, please email the Clerk directly - <a href="mailto:parishclerk@hertingfordbury.org.uk">parishclerk@hertingfordbury.org.uk</a></p>
 </fieldset>

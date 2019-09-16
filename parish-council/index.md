@@ -15,7 +15,7 @@ layout: gh-pages
 	<p>The Clerk to Hertingfordbury Parish Council can be contacted here:</p>
 	<p><a href="/parish-council/contact">Clerk to the Council<br />
 		Hertingfordbury Parish Council<br /></a>
-		(position currently vacant)</p>
+		Tom Brindley: 07956 381764</p>
 	<p>To report an issue with any of the subjects below, call East Herts District Council on 01279 655261 or visit these pages:</p>
 
 	<ul>
