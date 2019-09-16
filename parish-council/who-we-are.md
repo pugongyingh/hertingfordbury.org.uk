@@ -9,22 +9,22 @@ permalink: /parish-council/who-we-are/
 	<table border="0" cellpadding="0" cellspacing="5">
 		<tr>
 			<td valign="top"><strong>Chairman:</strong></td>
-			<td valign="top">Gary O'Leary</td>
+			<td valign="top">Paul Rochford</td>
 		</tr>
 		<tr>
 			<td valign="top"><strong>Vice Chairman:</strong></td>
-			<td valign="top">Vacancy</td>
+			<td valign="top">Haidy Blake</td>
 		</tr>
 		<tr>
 			<td valign="top"><strong>Councillors:</strong></td>
 			<td valign="top">
 				<p>Magda Atkins<br />
-					Haidy Blake<br />
 					Lizzer Bradbury<br />
 					Jim Coppard<br />
 					Niki Gordon<br />
 					Roger Morris<br />
-					Paul Rochford
+					Vacancy<br />
+					Vacancy
 				</p>
 			</td>
 		</tr>
