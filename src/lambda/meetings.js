@@ -1,5 +1,5 @@
 const axios = require( 'axios' );
-const API_ENDPOINT = 'https://github.com/ashfaqshimer/weather-ninja/blob/master/index.html';
+const API_ENDPOINT = 'http://bazidna.com/Bazi/Post/View/9757';
 //const API_ENDPOINT = 'https://api.subsume.io/hertingfordbury/v1/meetings';
 exports.handler = ( event, context, callback ) => {
 	axios.get( API_ENDPOINT )
